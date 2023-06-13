@@ -1,4 +1,4 @@
-# MMagic教程
+# MMagic代码实战教程
 
 OpenMMLab主页：https://openmmlab.com/
 
