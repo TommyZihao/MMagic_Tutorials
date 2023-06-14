@@ -1,6 +1,8 @@
 # MMagic代码实战教程
 
-OpenMMLab主页：https://openmmlab.com/
+OpenMMLab主页：https://openmmlab.com
+
+OpenXLab应用中心AIGC在线Demo：https://beta.openxlab.org.cn/apps
 
 MMagic主页：https://github.com/open-mmlab/mmagic
 
